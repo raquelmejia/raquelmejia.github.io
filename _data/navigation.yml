@@ -1,9 +1,0 @@
-# Jekyll makes this data file available to you at site.data.navigation. 
-# Instead of outputting each link in _includes/navigation.html, now you can iterate over the data file instead:
-
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
